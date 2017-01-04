@@ -2,6 +2,7 @@ package com.example;
 
 /**
  * This is a class.
+ * Adding something more
  */
 public class Greeter {
 
